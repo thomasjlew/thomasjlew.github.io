@@ -10,9 +10,6 @@ redirect_from:
 
 I am a PhD student at [Stanford](https://stanfordasl.github.io/) advised by [Prof. Marco Pavone](https://web.stanford.edu/~pavone/). I previously studied at [ETH Zurich](https://ethz.ch/en.html) and [EPFL](https://www.epfl.ch/en/), and completed research internships at [Google Brain Robotics](https://research.google/research-areas/robotics/) and [NASA JPL](https://www.jpl.nasa.gov/).
 
-<!-- I develop algorithms for more reliable robotic autonomy using tools from optimal control, stochastic calculus, differential geometry, and deep learning. My research is grounded in theory, revealing insights for designing faster methods with [optimality](publication/SAA), [accuracy](publication/randup_l4dc), and [adaptation](publication/seels) guarantees. It was deployed on [drones](publication/cio), [spacecraft](publication/randup_l4dc) and [Mars rover](publication/exomars) testbeds, [rockets](publication/cc_rocket), and [mobile manipulators](publication/table_wiping). -->
-
-<!-- I develop algorithms for the reliable control of autonomous systems.  -->
 I develop decision-making algorithms for autonomous systems. My work leverages tools from optimal control, stochastic calculus, differential geometry, and deep learning, revealing insights for designing fast and reliable methods with [optimality](publication/SAA), [accuracy](publication/randup_l4dc), and [adaptation](publication/seels) guarantees. It was deployed on [drones](publication/cio), [spacecraft](publication/randup_l4dc) and [Mars rover](publication/exomars) testbeds, [rockets](publication/cc_rocket), and [mobile manipulators](publication/table_wiping).
 
 
