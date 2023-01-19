@@ -12,6 +12,7 @@ I am a PhD student at [Stanford](https://stanfordasl.github.io/) advised by [Pro
 
 I develop decision-making algorithms for autonomous systems. My work leverages tools from optimal control, stochastic calculus, differential geometry, and deep learning, revealing insights for designing fast and reliable methods with [optimality](publication/SAA), [accuracy](publication/randup_l4dc), and [adaptation](publication/seels) guarantees. It was deployed on [drones](publication/cio), [spacecraft](publication/randup_l4dc) and [Mars rover](publication/exomars) testbeds, [rockets](publication/cc_rocket), and [mobile manipulators](publication/table_wiping).
 
+I am on the job market in 2023.
 
 <!-- News
 ======
