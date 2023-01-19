@@ -9,7 +9,7 @@ excerpt: '<br />
 - We propose an effective strategy for table wiping combining the strengths of reinforcement learning and whole-body trajectory optimization.'
 date: 2023-01-16
 venue: 'ICRA'
-# venuetype: "journal"
+venuetype: "conference"
 paperauthors: 'T. Lew, S. Singh, M. Prats, J. Bingham, J. Weisz, B. Holson, X. Zhang, V. Sindhwani, Y. Lu, F. Xia, P. Xu, T. Zhang, J. Tan, M. Gonzalez'
 thumbnail: "table_wiping/table_wiping.jpg"
 paperurl: 'https://arxiv.org/abs/2210.10865'
