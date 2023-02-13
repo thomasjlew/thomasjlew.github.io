@@ -7,7 +7,7 @@ excerpt: '<br />
 [Paper](https://hal.archives-ouvertes.fr/hal-03467612/document) / 
 [Code](https://github.com/StanfordASL/nnGuSTO) - 
 We propose a learning-based strategy to warm-start trajectory optimization algorithms.'
-date: 2022-03-07
+date: 2020-03-07
 # venue: 'IEEE Aerospace Conference'
 venue: 'AeroConf'
 venuetype: "conference"
