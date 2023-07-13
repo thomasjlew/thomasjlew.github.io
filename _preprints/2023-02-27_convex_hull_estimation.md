@@ -1,5 +1,5 @@
 ---
-title: "Estimating the convex hull of the image of a set with smooth boundary: error bounds and applications"
+title: "Estimating the Convex Hull of the Image of a Set with Smooth Boundary: Error Bounds and Applications"
 collection: publications
 permalink: /publication/convex_hull_estimation
 excerpt: '<br />

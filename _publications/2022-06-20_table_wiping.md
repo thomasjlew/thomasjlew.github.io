@@ -5,6 +5,7 @@ permalink: /publication/table_wiping
 excerpt: '<br />
 [Project Page](/publication/table_wiping) / 
 [Paper](https://arxiv.org/abs/2210.10865) / 
+[Blog Post](https://ai.googleblog.com/2023/04/towards-ml-enabled-cleaning-robots.html) / 
 [Video](https://www.youtube.com/watch?v=inORKP4F3EI&feature=youtu.be)
 - We propose an effective strategy for table wiping combining the strengths of reinforcement learning and whole-body trajectory optimization.'
 date: 2023-01-16
@@ -17,6 +18,7 @@ paperurl: 'https://arxiv.org/abs/2210.10865'
 
 [[Paper](https://arxiv.org/abs/2210.10865)] 
 [[Video](https://www.youtube.com/watch?v=inORKP4F3EI&feature=youtu.be)] 
+[[Blog Post](https://ai.googleblog.com/2023/04/towards-ml-enabled-cleaning-robots.html)] 
 
 
 <p style="text-align:center;"><img src="/images/table_wiping/crumbs.jpg" width="600"></p>

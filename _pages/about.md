@@ -8,11 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [Stanford](https://stanfordasl.github.io/) advised by [Prof. Marco Pavone](https://web.stanford.edu/~pavone/). I previously studied at [ETH Zurich](https://ethz.ch/en.html) and [EPFL](https://www.epfl.ch/en/), and completed research internships at [Google Brain Robotics](https://research.google/research-areas/robotics/) and [NASA JPL](https://www.jpl.nasa.gov/).
 
-I develop decision-making algorithms for autonomous systems. My work leverages tools from optimal control, stochastic calculus, differential geometry, and deep learning, revealing insights for designing fast and reliable methods with [optimality](publication/SAA), [accuracy](publication/randup_l4dc), and [adaptation](publication/seels) guarantees. It was deployed on [drones](publication/cio), [spacecraft](publication/randup_l4dc) and [Mars rover](publication/exomars) testbeds, [rockets](publication/cc_rocket), and [mobile manipulators](publication/table_wiping).
 
-I am on the job market in 2023.
+I am a researcher developing decision-making algorithms for autonomous systems. My research leverages tools from optimal control, stochastic calculus, differential geometry, and machine learning, revealing insights for designing fast and reliable methods with [optimality](publication/SAA), [accuracy](publication/convex_hull_estimation), and [adaptation](publication/seels) guarantees. It was deployed on [drones](publication/cio), [spacecraft](publication/randup_l4dc) and [Mars rover](publication/exomars) testbeds, [rockets](publication/cc_rocket), and [mobile robotic manipulators](publication/table_wiping).
+
+
+I am currently a PhD student at [Stanford](https://stanfordasl.github.io/) advised by [Prof. Marco Pavone](https://web.stanford.edu/~pavone/). I previously studied at [ETH Zurich](https://ethz.ch/en.html) and [EPFL](https://www.epfl.ch/en/), and completed research internships at [Google Brain Robotics](https://research.google/research-areas/robotics/) and [NASA JPL](https://www.jpl.nasa.gov/).
 
 <!-- News
 ======
@@ -24,12 +25,13 @@ I am on the job market in 2023.
 Todo -->
 
 # My Research
+<!-- Modern autonomous systems are becoming increasingly complex and are deployed in high-uncertainty, high-stakes applications. To enable more efficient and reliable decision-making, I have been developing algorithms that explicitly account for uncertainty.--> 
 Some problems I have been working on:
-- How can we compute [optimal trajectories](publication/SAA) for uncertain nonlinear dynamical systems? 
-- How can we [propagate uncertainty](publication/randup_l4dc) through complex systems (potentially with neural networks in the loop) in milliseconds, and use it for planning and control?
-- How can a system [safely (meta-)learn its dynamics](publication/seels)? How can we handle the exploration-exploitation tradeoff while satisfying constraints?
-- How can a drone [autonomously fly even if all its exteroceptive sensors have failed](publication/cio)?
-- How can we achieve precise [control from high-dimensional visual inputs](publication/table_wiping) while ensuring safe deployment in stochastic environments?
+- *Trajectory optimization under uncertainty*: How can we compute [optimal trajectories](publication/SAA) for uncertain nonlinear dynamical systems that explicitly account for the [risk of failure](publication/risk_averse)? 
+- *Forward reachability analysis*: How can we [propagate uncertainty](publication/randup_l4dc) through complex systems (potentially with neural networks in the loop) in milliseconds and use it for planning and control? What [accuracy](publication/convex_hull_estimation) can we expect? What [problem structure](publication/exact_characterization) can we exploit?
+- *Reliable learning-based control*: How can a system safely [(meta-)learn its dynamics](publication/seels), while handling the exploration-exploitation tradeoff and always satisfying constraints?
+- *Resilient navigation*: How can a drone autonomously fly [even if all its exteroceptive sensors have failed](publication/cio)?
+- *Vision-based control*: How can a robot achieve precise [control from high-dimensional visual inputs](publication/table_wiping) while ensuring safe and zero-shot deployment?
 <!-- a robot [autonomously and safely clean a table](publication/table_wiping)? -->
 
 ## Preprints
