@@ -5,7 +5,7 @@ permalink: /publication/exact_characterization
 excerpt: '<br />
 [Project Page](/publication/exact_characterization) / 
 [Paper](https://arxiv.org/abs/2303.17674) / 
--  We give a finite-dimensional characterization of the convex hulls of reachable sets of nonlinear systems (dx/dt=f(x)+w).'
+[Code](https://github.com/StanfordASL/convex_hull_reachability) - We give a finite-dimensional characterization of the convex hulls of reachable sets of nonlinear systems (dx/dt=f(x)+w).'
 date: 2023-12-13
 venue: 'CDC'
 venuetype: "conference"
