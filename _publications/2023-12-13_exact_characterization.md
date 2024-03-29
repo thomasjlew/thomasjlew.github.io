@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/exact_characterization
 excerpt: '<br />
 [Project Page](/publication/exact_characterization) / 
-[Paper](https://arxiv.org/abs/2303.17674) / 
+[Paper](https://arxiv.org/abs/2303.17674v2) / 
 [Code](https://github.com/StanfordASL/convex_hull_reachability) - We give a finite-dimensional characterization of the convex hulls of reachable sets of nonlinear systems (dx/dt=f(x)+w).'
 date: 2023-12-13
 venue: 'CDC'
@@ -12,9 +12,10 @@ venuetype: "conference"
 paperauthors: 'T. Lew, R. Bonalli, M. Pavone'
 thumbnail: "exact_characterization.jpg"
 paperurl: 'https://arxiv.org/abs/2303.17674'
+note: '<b>Outstanding Student Paper Award</b>'
 ---
 
-[[Paper](https://arxiv.org/abs/2303.17674)] 
+[[Paper](https://arxiv.org/abs/2303.17674v2)] 
 [[Code](https://github.com/StanfordASL/convex_hull_reachability)] 
 
 
