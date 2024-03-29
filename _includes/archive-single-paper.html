@@ -42,7 +42,7 @@
       </b>
        - <i>{{ post.paperauthors }}</i>
       - <b>{{ post.venue }}</b>-->
-      {% if post.award %}- <span style="color:blue"> {{ post.award }}</span>{% endif %}
+      {% if post.award %}- <b> {{ post.award }}</b>{% endif %}
       - {{ post.date | date: "%b %Y" }}       <!-- - {{ post.date | date: "%B %d, %Y" }}. -->
       <span class="archive__item-excerpt">
         {{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}
