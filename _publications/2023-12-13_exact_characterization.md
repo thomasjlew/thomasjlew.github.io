@@ -12,7 +12,7 @@ venuetype: "conference"
 paperauthors: 'T. Lew, R. Bonalli, M. Pavone'
 thumbnail: "exact_characterization.jpg"
 paperurl: 'https://arxiv.org/abs/2303.17674'
-note: '<b>Outstanding Student Paper Award</b>'
+award: 'Outstanding Student Paper Award'
 ---
 
 [[Paper](https://arxiv.org/abs/2303.17674v2)] 
