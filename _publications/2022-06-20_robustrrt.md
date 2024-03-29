@@ -2,11 +2,11 @@
 title: "Robust-RRT: Probabilistically-Complete Motion Planning for Uncertain Nonlinear Systems"
 collection: publications
 permalink: /publication/robustrrt
-excerpt: ' 
+excerpt: '<br />
 [Project Page](/publication/robustrrt) / 
 [Paper](https://arxiv.org/abs/2205.07728) / 
 [Code](https://github.com/StanfordASL/randUP_RRT.git) - 
-We propose a robust sampling-based planner.'
+A robust sampling-based motion planning algorithm.'
 date: 2022-09-25
 # venue: 'International Symposium on Robotics Research'
 venue: 'ISRR'
