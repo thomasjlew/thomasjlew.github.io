@@ -2,7 +2,7 @@
 title: "Control Barrier Functions for Cyber-Physical Systems and Applications to NMPC"
 collection: publications
 permalink: /publication/cbfs_delays
-excerpt: ' 
+excerpt: '<br />
 [Project Page](/publication/cbfs_delays) / 
 [Paper](https://arxiv.org/abs/2104.14250) - 
 We propose a CBF formulation that accounts for delays.'

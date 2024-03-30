@@ -12,7 +12,7 @@ date: 2022-09-25
 venue: 'ISRR'
 venuetype: "conference"
 paperauthors: 'A. Wu, T. Lew, K. Solovey, E. Schmerling, M. Pavone'
-thumbnail: "robustrrt.png"
+thumbnail: "robustrrt_vertical.png"
 paperurl: 'https://arxiv.org/abs/2205.07728'
 ---
 

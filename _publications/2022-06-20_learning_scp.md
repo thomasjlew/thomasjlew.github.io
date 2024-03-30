@@ -12,7 +12,7 @@ date: 2020-03-07
 venue: 'AeroConf'
 venuetype: "conference"
 paperauthors: 'S. Banerjee, T. Lew, R. Bonalli, A. Alfaadhel, I. Alomar, H. Shageer, M. Pavone'
-thumbnail: "learning_scp.png"
+thumbnail: "learning_scp_vertical.png"
 paperurl: 'https://hal.archives-ouvertes.fr/hal-03467612/document'
 ---
 
