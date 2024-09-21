@@ -7,9 +7,9 @@ excerpt: '<br />
 [Paper](https://arxiv.org/abs/2302.13970) / 
 [Code](https://github.com/StanfordASL/convex-hull-estimation) - 
 We study the problem of estimating the convex hull of the image of a compact set with smooth boundary.'
-date: 2023-02-27
-venue: 'Under Review'
-# venuetype: "journal"
+date: 2024-08-28
+venue: 'DCG'
+venuetype: "journal"
 paperauthors: 'T. Lew, R. Bonalli, L. Janson, M. Pavone'
 thumbnail: "convex_hull_estimation.png"
 paperurl: 'https://arxiv.org/abs/2302.13970'
