@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am a research scientist at the [Toyota Research Institute](https://www.tri.global/), where I develop decision-making algorithms for autonomous systems. My research leverages tools from optimal and stochastic control, differential geometry, and machine learning, revealing insights for designing fast and reliable methods with [optimality](publication/SAA), [accuracy](publication/convex_hull_estimation), and [adaptation](publication/seels) guarantees. It was deployed on [drones](publication/cio), [spacecraft](publication/randup_l4dc) and [Mars rover](publication/exomars) testbeds, [rockets](publication/cc_rocket), and [mobile robotic manipulators](publication/table_wiping).
+I am a research scientist at the [Toyota Research Institute](https://www.tri.global/), where I develop decision-making algorithms for autonomous systems. My research leverages tools from optimal and stochastic control, optimization, differential geometry, and machine learning, revealing insights for designing fast and reliable methods with [optimality](publication/SAA), [accuracy](publication/convex_hull_estimation), and [adaptation](publication/seels) guarantees. It was deployed on [cars](publication/riskaverse_mpc_racing), [drones](publication/cio), [spacecraft](publication/randup_l4dc) and [Mars rover](publication/exomars) testbeds, [rockets](publication/cc_rocket), and [mobile robotic manipulators](publication/table_wiping).
 
-Previously, I received my PhD from [Stanford University](https://stanfordasl.github.io/) advised by [Marco Pavone](https://web.stanford.edu/~pavone/), completed research internships at [Google Brain](https://research.google/research-areas/robotics/) and [NASA JPL](https://www.jpl.nasa.gov/), and studied at [ETH Zurich](https://ethz.ch/en.html) and [EPFL](https://www.epfl.ch/en/).
+Previously, I received my PhD from [Stanford University](https://stanfordasl.github.io/) advised by [Marco Pavone](https://web.stanford.edu/~pavone/) and [Riccardo Bonalli](https://rbonalli.github.io/), completed research internships at [Google Brain](https://research.google/research-areas/robotics/) and [NASA JPL](https://www.jpl.nasa.gov/), and studied at [ETH Zurich](https://ethz.ch/en.html) and [EPFL](https://www.epfl.ch/en/).
 
 
 
