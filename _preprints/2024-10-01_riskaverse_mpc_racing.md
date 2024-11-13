@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/riskaverse_mpc_racing
 excerpt: '<br />
 [Project Page](/publication/riskaverse_mpc_racing) / 
-[Paper](https://arxiv.org/abs/2410.17183) - A risk-averse controller to reason over uncertainty.'
+[Paper](https://arxiv.org/abs/2410.17183) - A risk-averse controller that can reason over uncertainty.'
 date: 2024-10-01
 venue: 'Under Review'
 # venuetype: "conference"
@@ -22,7 +22,7 @@ In this work, we propose a risk-averse MPC framework that explicitly accounts fo
 
 Experiments on a Lexus LC 500 show that risk-averse MPC unlocks reliable performance, while a deterministic baseline that plans using a single dynamics model may lose control of the vehicle in adverse road conditions.
 
-![riskaverse_mpc_racing_big](/images/randup/riskaverse_mpc_racing_big.jpg)
+![riskaverse_mpc_racing_big](/images/riskaverse_mpc_racing_big.jpg)
 
 This work leverages previous ideas on [risk-averse trajectory optimization](/publication/risk_averse) to obtain an uncertainty-aware MPC scheme that reasons over
 10 different dynamics models and runs at 20Hz. In particular, it shows that accounting for uncertainty enables reliable vehicle control at the edge of stability in adverse conditions.

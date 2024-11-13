@@ -22,8 +22,8 @@ Combining data-driven models that adapt online and model predictive control (MPC
 In this work, we present a Bayesian meta-learning MPC framework. We propose an expressive vehicle dynamics model that leverages Bayesian last-layer meta-learning to enable rapid online adaptation. The model’s uncertainty estimates are used to guide informative data collection and quickly improve the model prior to deployment. Experiments on a Toyota Supra show that (i) the framework enables reliable control in dynamic drifting maneuvers, (ii) online adaptation alone may not suffice for zero-shot control of a vehicle at the edge of stability, and (iii) active data collection
 helps achieve reliable performance.
 
-<p style="text-align:center;"><img src="/images/randup/first_learn_what_you_dont_know_big.jpg" width="500"></p>
+<p style="text-align:center;"><img src="/images/first_learn_what_you_dont_know_big.jpg" width="500"></p>
 
 This work leverages previous ideas on [safe active dynamics learning](/publication/seels) and demonstrates reliable vehicle control at the edge of stability. In particular, it shows that information-rich trajectories do not necessarily involve drifting, and adapting on such data aids in robust execution of challenging drifting maneuvers.
 
-<p style="text-align:center;"><img src="/images/randup/first_learn_what_you_dont_know_info_trajs.jpg" width="600"></p>
+<p style="text-align:center;"><img src="/images/first_learn_what_you_dont_know_info_trajs.jpg" width="600"></p>
