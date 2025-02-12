@@ -27,9 +27,9 @@ Todo -->
 # My Research
 <!-- Modern autonomous systems are becoming increasingly complex and are deployed in high-uncertainty, high-stakes applications. To enable more efficient and reliable decision-making, I have been developing algorithms that explicitly account for uncertainty.--> 
 Some problems I have been working on:
-- *Trajectory optimization under uncertainty*: How can we compute [optimal trajectories](publication/SAA) for uncertain nonlinear dynamical systems that explicitly account for the [risk of failure](publication/risk_averse)? 
+- *Optimization and control under uncertainty*: How can we compute [optimal trajectories](publication/SAA) for nonlinear systems that [explicitly reason over uncertainty](publication/risk_averse)? Can we find [low-dimensional representations of solutions](publication/stochastic_pmp) and leverage [GPU acceleration](publication/riskaverse_mpc_racing) to solve these problems in real time?
 - *Forward reachability analysis*: How can we [propagate uncertainty](publication/randup_l4dc) through complex systems (potentially with neural networks in the loop) in milliseconds and use it for planning and control? What [accuracy](publication/convex_hull_estimation) can we expect? What [problem structure](publication/exact_characterization) can we exploit?
-- *Reliable learning-based control*: How can a system safely [(meta-)learn its dynamics](publication/seels), while handling the exploration-exploitation tradeoff and always satisfying constraints?
+- *Reliable and efficient learning-based control*: How can a system safely [(meta-)learn its dynamics](publication/seels), while handling the exploration-exploitation tradeoff and always satisfying constraints? How can we [learn as fast as possible](publication/first_learn_what_you_dont_know) to enable reliable control of unstable systems?
 - *Resilient navigation*: How can a drone autonomously fly [even if all its exteroceptive sensors have failed](publication/cio)?
 - *Vision-based control*: How can a robot achieve precise [control from high-dimensional visual inputs](publication/table_wiping) while ensuring safe and zero-shot deployment?
 <!-- a robot [autonomously and safely clean a table](publication/table_wiping)? -->
