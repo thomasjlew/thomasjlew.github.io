@@ -16,7 +16,8 @@ paperurl: 'https://arxiv.org/abs/2502.06726'
 ---
 
 [[Paper](https://arxiv.org/abs/2502.06726)] 
-[[Code](https://github.com/ToyotaResearchInstitute/rspmp)] 
+[[Summary](https://github.com/thomasjlew/thomasjlew.github.io/tree/master/files/RSPMP_trajectory_optimization.pdf)] 
+[[Code](https://github.com/ToyotaResearchInstitute/rspmp)]
 
 
 We study necessary optimality conditions for stochastic optimal control, which has found numerous applications such as in finance, aerospace, and robotics. Existing results are often expressed as a stochastic Pontryagin Maximum Principle (PMP) involving forward-backward stochastic differential equations (FBSDEs), and have been key to understand the solutions to these problems. For problems with linear dynamics and linear-quadratic costs for example, the PMP leads to tractable solutions characterized by stochastic Riccati equations. However, the complexity of existing PMPs with FBSDEs has hindered applications of these results to solve nonlinear stochastic optimal control problems. In deterministic optimal control on the other hand, the PMP provides low-dimensional characterizations of optimal solutions and informs the design of efficient indirect shooting methods for nonlinear optimal control. Can we derive a simpler PMP for the stochastic setting that also guides the design of efficient algorithms?
