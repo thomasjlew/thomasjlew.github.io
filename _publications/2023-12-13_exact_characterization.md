@@ -12,7 +12,7 @@ venue: 'CDC'
 venuetype: "conference"
 paperauthors: 'T. Lew, R. Bonalli, M. Pavone'
 thumbnail: "exact_characterization.jpg"
-paperurl: 'https://arxiv.org/abs/2303.17674'
+paperurl: 'https://arxiv.org/abs/2303.17674v2'
 award: 'Outstanding Student Paper Award'
 ---
 

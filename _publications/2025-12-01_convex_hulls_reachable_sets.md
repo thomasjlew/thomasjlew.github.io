@@ -6,9 +6,10 @@ excerpt: '<br />
 [Project Page](/publication/convex_hulls_reachable_sets) / 
 [Paper](https://arxiv.org/abs/2303.17674) / 
 [Code](https://github.com/StanfordASL/chreach) - We study the structure of convex hulls of reachable sets of nonlinear systems (dx/dt=f(x)+g(x)w).'
-date: 2024-02-29
-venue: 'Under Review'
-# venuetype: "conference"
+date: 2025-12-01
+# venue: 'IEEE Transactions on Automatic Control'
+venue: 'TAC'
+venuetype: "journal"
 paperauthors: 'T. Lew, R. Bonalli, M. Pavone'
 thumbnail: "convex_hulls_reachable_sets.jpg"
 paperurl: 'https://arxiv.org/abs/2303.17674'
