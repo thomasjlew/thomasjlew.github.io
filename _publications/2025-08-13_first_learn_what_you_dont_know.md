@@ -6,9 +6,10 @@ excerpt: '<br />
 [Project Page](/publication/first_learn_what_you_dont_know) / 
 [Paper](https://arxiv.org/abs/2411.00107) - Unstable
 systems are difficult to simultaneously learn and control.'
-date: 2024-10-01
-venue: 'Under Review'
-# venuetype: "conference"
+date: 2025-08-13
+# venue: 'IEEE Robotics and Automation Letters'
+venue: 'RA-L'
+venuetype: "journal"
 paperauthors: 'A. Davydov, F. Djeumou, M. Greiff, M. Suminaka, M. Thompson, J. Subosits, T. Lew'
 thumbnail: "first_learn_what_you_dont_know.jpg"
 paperurl: 'https://arxiv.org/abs/2411.00107'
