@@ -7,9 +7,9 @@ excerpt: '<br />
 [Paper](https://arxiv.org/abs/2502.06726) / 
 [Code](https://github.com/ToyotaResearchInstitute/rspmp) / 
 [Summary](https://github.com/thomasjlew/thomasjlew.github.io/tree/master/files/RSPMP_trajectory_optimization.pdf) - We derive new optimality conditions and an indirect method for stochastic optimal control.'
-date: 2025-02-10
-venue: 'Under Review'
-# venuetype: "conference"
+date: 2025-11-07
+venue: 'SICON'
+# venuetype: "journal"
 paperauthors: 'T. Lew'
 thumbnail: "stochastic_pmp.png"
 paperurl: 'https://arxiv.org/abs/2502.06726'
