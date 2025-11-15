@@ -21,7 +21,7 @@ My work develops reliable and scalable decision-making algorithms for autonomous
 - *GPU-accelerated optimization*: Differentiable solvers tailored to GPU parallelism, enabling fast [uncertainty-aware MPC](publication/riskaverse_mpc_racing) and scalable integration into [reinforcement learning](publication/diffmpc).
 - *Reachability & uncertainty propagation*: Real-time tools for [propagating uncertainty](publication/randup_l4dc) through nonlinear and neural network  models, with [provable accuracy](publication/convex_hull_estimation) and using [low-dimensional characterizations](publication/exact_characterization) of reachable sets.
 - *Reliable learning-based control*: Safe and data-efficient algorithms to [learn dynamics](publication/seels), balance exploration and exploitation, and achieve  reliable [learning-based control of unstable systems](publication/first_learn_what_you_dont_know).
-- *Embodied autonomy*: Algorithms enabling robust performance in challenging settings, such as [drifting through puddles](publication/diffmpc), [perception-degraded flight](publication/cio) and [vision-based manipulation tasks](publication/table_wiping).
+- *Embodied autonomy*: Algorithms enabling robust performance in challenging settings, such as [drifting through puddles](publication/diffmpc), [perception-degraded flight](publication/cio) and [vision-based manipulation](publication/table_wiping).
 
 
 ## Preprints
