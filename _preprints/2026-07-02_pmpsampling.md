@@ -21,6 +21,6 @@ In this work, we leverage [previous results](/publication/convex_hulls_reachable
 
 ![pmpsampling](/images/pmpsampling.jpg)
 
-The learned Control Barrier Value Function is then used directly for safety filtering. Simulations and experimental validation on a shared-control automotive racing application demonstrate PMP sampling improves learning efficiency, yielding faster convergence, reduced failure rates, and improved safe set reconstruction.
+The learned Control Barrier Value Function is then used for safety filtering. Simulations and experimental validation on a shared-control automotive racing application demonstrate PMP sampling improves learning efficiency, yielding faster convergence, reduced failure rates, and improved safe set reconstruction.
 
 <p style="text-align:center;"><img src="/images/pmpsampling_platform.jpg" width="300"></p>
