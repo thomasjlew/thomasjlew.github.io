@@ -13,6 +13,7 @@ venuetype: "journal"
 paperauthors: 'A. Davydov, F. Djeumou, M. Greiff, M. Suminaka, M. Thompson, J. Subosits, T. Lew'
 thumbnail: "first_learn_what_you_dont_know.jpg"
 paperurl: 'https://arxiv.org/abs/2411.00107'
+award: 'Best Paper Award Honorable Mention'
 ---
 
 [[Paper](https://arxiv.org/abs/2411.00107)] 
